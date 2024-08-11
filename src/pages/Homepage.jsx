@@ -1,9 +1,12 @@
 import { Link } from "react-router-dom";
-import styles from "./Homepage.module.css";
+// import Logo from "../components/Logo";
 import PageNav from "../components/PageNav";
+import styles from "./Homepage.module.css";
+
 export default function Homepage() {
     return (
         <main className={styles.homepage}>
+            {/* <Logo /> */}
             <PageNav />
             <section>
                 <h1>
@@ -15,7 +18,7 @@ export default function Homepage() {
                     A world map that tracks your footsteps into every city you can think of. Never forget your wonderful
                     experiences, and show your friends how you have wandered the world.
                 </h2>
-                <Link to="app" className="cta">
+                <Link to="/app" className="cta">
                     Start tracking now
                 </Link>
             </section>
