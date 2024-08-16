@@ -40,18 +40,6 @@
       "id": "de19"
     },
     {
-      "id": "733a",
-      "cityName": "dubai",
-      "country": "",
-      "emoji": "",
-      "date": "2024-08-15T05:06:00.191Z",
-      "notes": "good",
-      "position": {
-        "lat": null,
-        "lng": null
-      }
-    },
-    {
       "id": "c849",
       "cityName": "Bolanos de Calatrava",
       "country": "Spain",
@@ -64,15 +52,15 @@
       }
     },
     {
-      "id": "7f8a",
-      "cityName": "Tercillat",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-08-15T05:32:38.445Z",
-      "notes": "very good",
+      "id": "c507",
+      "cityName": "Les Valls de Valira",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-16T08:32:53.314Z",
+      "notes": "amazing",
       "position": {
-        "lat": "46.40756396630067",
-        "lng": "2.0654296875000004"
+        "lat": "42.374778361114195",
+        "lng": "1.4501953125000002"
       }
     }
   ]
