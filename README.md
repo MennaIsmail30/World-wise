@@ -1,8 +1,28 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# To run the app use:
 
-Currently, two official plugins are available:
+-   npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# To run the server use:
+
+-   npm run server
+
+# React Hooks?
+
+-   useState()
+-   useEffect()
+-   useReducer()
+-   useNavigation()
+-   useContext()
+
+# What are the functionalities?
+
+-   Creating a context for handling cities
+-   Creating a context for handling user fake authentication
+-   Including a map with the leaflet library
+-   Display city marker on the map
+-   Setting map position with geolocation
+-   Fetching city data in the form
+-   Creating new city
+-   Delete a city
